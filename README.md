@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-                    Hello...
+                                                          Hello...
 
-                      😜
+                                                            😜
 
-Welcome to my GitHub, I hope it will be of interest to you
+                                      Welcome to my GitHub, I hope it will be of interest to you
 
-here you will find something about my work
+                                      here you will find something about my work
